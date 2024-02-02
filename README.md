@@ -8,5 +8,5 @@
 5. fill in correctly in the pop-up window and use
 
 ### Information
-1. The code was written by Alihan GötKaya
+1. The code was written by Salvo&1943
 2. The tokens in tokens.txt must be on the server to be spammed.
